@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "Imthickofit",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Blisswitme.aternos.me",
-    "port": 14385,
+    "ip": "Hawkswitme.aternos.me",
+    "port": 43694,
     "version": "1.21.11",
     "try-creative": false
   },
@@ -27,7 +27,7 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
